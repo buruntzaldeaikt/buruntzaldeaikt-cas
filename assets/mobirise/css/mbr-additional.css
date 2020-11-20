@@ -4142,7 +4142,7 @@ a {
 }
 .cid-sgBxyVDpGD {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sgBxyVDpGD .item {
@@ -4178,6 +4178,14 @@ a {
 }
 .cid-sgBxyVDpGD h5 {
   text-align: justify;
+}
+.cid-sgSdmpWZNc {
+  padding-top: 0rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sgSdmpWZNc .mbr-text {
+  text-align: right;
 }
 .cid-sgBrrruRVD {
   padding-top: 1rem;
