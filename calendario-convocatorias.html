@@ -142,7 +142,7 @@
                             <h6 class="mbr-fonts-style mb-3 display-4"><strong>28/11/2020 (Femenina)</strong></h6>
                             <p class="mbr-text mbr-fonts-style display-4"><strong>Lugar: </strong>Fadura, Getxo&nbsp;<br><strong>Categorías:</strong> Absoluta
 <br><strong>Hora de inicio:</strong> A las 10:00 y a las 16:30
-<br><strong>Hora de calentamiento:</strong> A las 8:30 y a las 15:00</p>
+<br><strong>Hora de calentamiento:</strong> A las 8:30 y a las 15:00<br><a href="javascript:OpenModal('vestimenta')" class="text-primary"><strong>Vestimenta</strong></a></p>
                             <div class="social-row display-7">
                                 <div class="soc-item">
                                     <a href="https://drive.google.com/open?id=1UPLVok_JcUmLT5GuPRULgVZ8raEhgqRN" target="_blank">
@@ -174,6 +174,59 @@
         
         
     </div>
+</section>
+
+<section class="mbr-section" id="witsec-modal-window-block-5e" data-rv-view="156">
+
+	<style>
+	/* Let's not animate the contents of modal windows */
+	.no-anim {
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+	</style>
+
+	
+	
+	<div><div class="modal fade" id="vestimenta" tabindex="-1" role="dialog" aria-labelledby="vestimentaLabel" aria-hidden="true">  <div class="modal-dialog  modal-dialog-centered" style="height:auto" role="document">    <div class="modal-content"><div class="modal-header">  <h5 class="no-anim modal-title" id="vestimentaLabel">Vestimenta oficial</h5>  <a href="#" class="no-anim close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a></div><div class="modal-body" id="vestimenta_body">👉 VESTIMENTA: <br>&gt; Chaqueta del chándal del club ó Sudadera<br>&gt; Pantalón del chándal del club ó pantalón algodón del club ó Leggins del club<br>&gt; Pantalón corto de piscina negro del Club<br>&gt; Camiseta de piscina verde del Club<br>&gt; Bañador del club ó Fast<br>&gt; Gorro del club.<br><br>*Todas/os ls/los nadadoras/es del club han de cumplir con ésta vestimenta para ésta competición.</div><div class="modal-footer"><div class="mbr-section-btn"><a href="#" class="no-anim btn btn-secondary display-4" data-dismiss="modal">Cerrar</a></div></div>    </div>  </div></div><script>document.addEventListener("DOMContentLoaded", function() {  $("#vestimenta").on("hidden.bs.modal", function () {    var html = $( "#vestimenta_body" ).html();    $( "#vestimenta_body" ).empty();    $( "#vestimenta_body" ).append(html);  })});</script></div>
+
+	<script>
+	if (typeof OpenModal === 'undefined') {
+		OpenModal = function(modalName) {
+			if ($('#' + modalName).length)
+				$('#' + modalName).modal('show');
+			else
+				alert("Sorry, but there is no modal for " + modalName);
+		}
+	}
+
+	function modalSetCookie(cname, cvalue, exdays) {
+		var d = new Date();
+		d.setTime(d.getTime() + (exdays*24*60*60*1000));
+		var expires = "expires="+ d.toUTCString();
+		document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+
+	function modalGetCookie(cname) {
+		var name = cname + "=";
+		var decodedCookie = decodeURIComponent(document.cookie);
+		var ca = decodedCookie.split(';');
+		for(var i = 0; i <ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+	</script>
+
 </section>
 
 <section class="content6 cid-sgGDNbo3z7" id="content6-55">
