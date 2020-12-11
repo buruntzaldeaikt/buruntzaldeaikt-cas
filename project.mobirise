@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "calendario-convocatorias.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -82,7 +82,8 @@
     "site_lang": "es",
     "publishChangesOnly": false,
     "witsec-mailform": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9HBHKX8SXK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9HBHKX8SXK');\n</script>\n"
   },
   "pages": {
     "index.html": {
