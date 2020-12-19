@@ -772,6 +772,60 @@ a {
   text-align: left;
   color: #232323;
 }
+.cid-sjEFJjiw9N {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sjEFJjiw9N img,
+.cid-sjEFJjiw9N .item-img {
+  width: 100%;
+  height: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+.cid-sjEFJjiw9N .item:focus,
+.cid-sjEFJjiw9N span:focus {
+  outline: none;
+}
+.cid-sjEFJjiw9N .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sjEFJjiw9N .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sjEFJjiw9N .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sjEFJjiw9N .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sjEFJjiw9N .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sjEFJjiw9N .mbr-section-title {
+  color: #232323;
+}
+.cid-sjEFJjiw9N .mbr-text,
+.cid-sjEFJjiw9N .mbr-section-btn {
+  text-align: left;
+}
+.cid-sjEFJjiw9N .item-title {
+  text-align: left;
+}
+.cid-sjEFJjiw9N .item-subtitle {
+  text-align: center;
+}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -1744,8 +1798,6 @@ a {
 .cid-sgGjpeRn8K {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgGjpeRn8K nav.navbar {
   position: fixed;
@@ -1838,7 +1890,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgGjpeRn8K .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2258,8 +2310,6 @@ a {
 .cid-sgvD7wR0Xi {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgvD7wR0Xi nav.navbar {
   position: fixed;
@@ -2352,7 +2402,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgvD7wR0Xi .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2793,8 +2843,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -2887,7 +2935,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -3279,8 +3327,6 @@ a {
 .cid-sgpWlHxwG3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgpWlHxwG3 nav.navbar {
   position: fixed;
@@ -3373,7 +3419,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgpWlHxwG3 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -3757,8 +3803,6 @@ a {
 .cid-sgBrrmfLcI {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgBrrmfLcI nav.navbar {
   position: fixed;
@@ -3851,7 +3895,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgBrrmfLcI .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -4303,8 +4347,6 @@ a {
 .cid-sgAxboeYBg {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgAxboeYBg nav.navbar {
   position: fixed;
@@ -4397,7 +4439,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgAxboeYBg .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -4746,8 +4788,6 @@ a {
 .cid-sgACqlYe30 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgACqlYe30 nav.navbar {
   position: fixed;
@@ -4840,7 +4880,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgACqlYe30 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -5597,8 +5637,6 @@ a {
 .cid-sgALdWK1bI {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgALdWK1bI nav.navbar {
   position: fixed;
@@ -5691,7 +5729,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgALdWK1bI .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -6031,8 +6069,6 @@ a {
 .cid-sgG5SetKsO {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sgG5SetKsO nav.navbar {
   position: fixed;
@@ -6125,7 +6161,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-sgG5SetKsO .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -6534,8 +6570,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -6628,7 +6662,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -7058,8 +7092,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -7152,7 +7184,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -7495,8 +7527,6 @@ a {
 .cid-shPuHTsebG {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-shPuHTsebG nav.navbar {
   position: fixed;
@@ -7589,7 +7619,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #054d07;
+  background: rgba(5, 77, 7, 0.9);
 }
 .cid-shPuHTsebG .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
