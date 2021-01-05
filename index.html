@@ -118,7 +118,7 @@
     </div>
 </section>
 
-<section class="mbr-section" id="witsec-modal-window-block-5u" data-rv-view="267">
+<section class="mbr-section" id="witsec-modal-window-block-5u" data-rv-view="521">
 
 	<style>
 	/* Let's not animate the contents of modal windows */
@@ -133,7 +133,16 @@
 
 	
 	
-	<div><div class="modal fade" id="gabonak" tabindex="-1" role="dialog" aria-labelledby="gabonakLabel" aria-hidden="true">  <div class="modal-dialog modal-lg modal-dialog-centered" style="height:auto" role="document">    <div class="modal-content"><div class="modal-header">  <h5 class="no-anim modal-title" id="gabonakLabel">¡Feliz Navidad y próspero año nuevo!</h5>  <a href="#" class="no-anim close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a></div><div class="modal-body" id="gabonak_body"><img src="https://1.bp.blogspot.com/-_s1s4owdsc4/X-MTLvERbyI/AAAAAAAA2Ec/TauxM_G1J8A8GErYR3PtkHVwT3fQaPWyACLcBGAsYHQ/s16000/Urte%2Bberria.png" width="75" height="500"></div><div class="modal-footer"><div class="mbr-section-btn"><a href="#" class="no-anim btn btn-secondary display-4" data-dismiss="modal">Cerrar</a></div></div>    </div>  </div></div><script>document.addEventListener("DOMContentLoaded", function() {  $("#gabonak").on("hidden.bs.modal", function () {    var html = $( "#gabonak_body" ).html();    $( "#gabonak_body" ).empty();    $( "#gabonak_body" ).append(html);  })});</script></div>
+	<div><div class="modal fade" id="manifestaci-n" tabindex="-1" role="dialog" aria-labelledby="manifestaci-nLabel" aria-hidden="true">  <div class="modal-dialog modal-lg modal-dialog-centered" style="height:auto" role="document">    <div class="modal-content"><div class="modal-header">  <h5 class="no-anim modal-title" id="manifestaci-nLabel">Sábado 9 de enero a las 12:00 manifestación en Donostia</h5>  <a href="#" class="no-anim close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a></div><div class="modal-body" id="manifestaci-n_body"><div style="text-align: justify;">
+  El recorrido de la manifestación está aún sin concretar porque están
+  pendientes de los últimos permisos pero nos dicen que la idea es hacer salidas
+  por clubes y para ello nos piden una estimación sobre el número de personas
+  que vamos a ir desde el club. Para informar a los organizadores sobre estas
+  estimaciones, nosotros os dejamos a continuación un formulario que estará
+  abierto hasta el 5 de enero y que servirá para enviar dicha estimación a los
+  organizadores: <a href="http://goog_1048740504/"></a><a href="https://forms.gle/cYTVF53UCxQY3ZMJ8" target="_blank">https://forms.gle/cYTVF53UCxQY3ZMJ8</a>
+</div>
+<img border="0" data-original-height="420" data-original-width="540" src="https://1.bp.blogspot.com/-3tpg90zSs1w/X_Qg9-BOeRI/AAAAAAAA2PY/RrvLxV6SoY0do7_deY0xC2RR2FsdY3HGACLcBGAsYHQ/s16000/135562194_134811498450350_7062387461487744345_o.jpg"></div><div class="modal-footer"><div class="mbr-section-btn"><a href="#" class="no-anim btn btn-secondary display-4" data-dismiss="modal">Cerrar</a></div><div class="mbr-section-btn"><a href="http://noticias.buruntzaldeaikt.eus/2021/01/manifestacion-el-sabado-en-donostia.html#.X_QnaRAmzxE.link" class="no-anim btn btn-primary display-4" target="_new">Noticia completa</a></div></div>    </div>  </div></div><script>document.addEventListener("DOMContentLoaded", function() {  $("#manifestaci-n").on("hidden.bs.modal", function () {    var html = $( "#manifestaci-n_body" ).html();    $( "#manifestaci-n_body" ).empty();    $( "#manifestaci-n_body" ).append(html);  })});</script></div>
 
 	<script>
 	if (typeof OpenModal === 'undefined') {
@@ -171,13 +180,7 @@
 
 </section><script>
 document.addEventListener("DOMContentLoaded", function() {
-  if (modalGetCookie("gabonak_viewed") == "") {
-    setTimeout( function() {
-      
-        modalSetCookie("gabonak_viewed", true, 3600);
-      OpenModal("gabonak");
-    } , 3000);
-  }
+  setTimeout( function() { OpenModal("manifestaci-n"); } , 3000);
 });
 </script>
 
