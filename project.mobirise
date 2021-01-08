@@ -83,15 +83,16 @@
     "publishChangesOnly": false,
     "witsec-mailform": false,
     "witsec-white-label": true,
-    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9HBHKX8SXK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9HBHKX8SXK');\n</script>\n"
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9HBHKX8SXK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9HBHKX8SXK');\n</script>\n",
+    "global_after_body": "<meta name=\"title\" content=\"Buruntzaldea IKT Igeriketa-Natación\">\n<meta name=\"description\" content=\"Buruntzaldea IKT es un club de natación que lleva a cabo la actividad en Lasarte-Oria y Andoain. Se fundó en 2007 y actualmente reúne a más de 120 nadadores. Las actividades del club son la natación escolar, la natación federada, la natación adaptada, la natación máster, la natación participativa y el triatlón.\">\n<meta name=\"keywords\" content=\"BIKT, Buruntzaldea, buruntzaldea, bikt, natación, lasarte, lasarte-oria, andoain, aprender, aprendizaje, club, equipo, estilos, escolar, federado, federada, adaptada, participación, participar, master, masters, voluntarios, voluntarias, misión, visión, valores, triatlón, estilos, calendario, récords, noticias, blog, covid19, diario, dia, 2020/2021, convocatorias, citas, 696506632, info@buruntzaldeaikt.eus, lan poltsa, brnpwr, BRNPWR, crol, espalda, mariposa, braza\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<meta name=\"author\" content=\"Buruntzaldea IKT\">\n\n\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Club de Natación Buruntzaldea",
-        "meta_descr": "",
-        "header_custom": "",
+        "meta_descr": "Buruntzaldea IKT es un club de natación que lleva a cabo la actividad en Lasarte-Oria y Andoain. Se fundó en 2007 y actualmente reúne a más de 120 nadadores. Las actividades del club son la natación escolar, la natación federada, la natación adaptada, la natación máster, la natación participativa y el triatlón.",
+        "header_custom": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/2082451e1d82ef54efc7d9eaa/7023c71e61281de4149d769cb.js\");</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/estua-2000x463.jpg"
@@ -176,7 +177,7 @@
             "modalVerticalCenter": true,
             "modalFade": true,
             "modalAutoOpen": true,
-            "modalAutoOpenOnce": false,
+            "modalAutoOpenOnce": true,
             "modalAutoOpenGDPR": false,
             "modalAutoOpenDelay": "3"
           },
