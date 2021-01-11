@@ -176,7 +176,7 @@
             "modalLinkNewWindow": true,
             "modalVerticalCenter": true,
             "modalFade": true,
-            "modalAutoOpen": true,
+            "modalAutoOpen": false,
             "modalAutoOpenOnce": true,
             "modalAutoOpenGDPR": false,
             "modalAutoOpenDelay": "3"
