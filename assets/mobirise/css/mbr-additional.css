@@ -5312,6 +5312,7 @@ a {
 .cid-snXGprwfUi .card-wrapper {
   background-color: #ffffff;
   border-radius: 4px;
+  background-color: transparent;
 }
 .cid-snXGprwfUi .image-wrapper img {
   width: 100%;
@@ -7472,14 +7473,6 @@ a {
 .cid-sgrLW8sOin .item {
   cursor: pointer;
   margin-bottom: 2rem;
-}
-.cid-sgrLW8sOin .row {
-  margin-left: 0;
-  margin-right: 0;
-}
-.cid-sgrLW8sOin .item {
-  padding: 0;
-  margin: 0;
 }
 .cid-sgrLW8sOin .item-wrapper {
   position: relative;
