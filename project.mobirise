@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "calendario-convocatorias.html",
+    "currentPage": "records.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,7 +49,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 306,
+    "uniqCompNum": 308,
     "versionPublish": "5.2.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -7586,6 +7586,24 @@
         {
           "alias": false,
           "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=10YxFqQry47Sw21AIKQ6bqEGOHcjNwZdg\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Femenino</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=176UwzF_O0hMkdwnlD1THTszrMBF2eQV1\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Fem. Adaptada</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1TfZ0VEbK0-G4Sbl2ov7Dh3mIbl1hsW_v\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Fem. Master</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1BWye-cl91uD0rLlNf15MlQSiNUUY3IaT\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Masculino</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1z8k-CdrHmqli53sOg5e6SyhZM3HoZ-yT\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Masc. Adaptada</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1JgR3scwwIUUhnHprP1CZlDusLC7V6ShW\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Masc. Master</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content11-48",
+          "_isUserblock": true,
+          "_cid": "sgANKVxj3I",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
             "& when not (@sticky)": {
               ".navbar-dropdown": {
                 "position": "relative !important"
@@ -7977,18 +7995,40 @@
           "_params": {}
         },
         {
-          "alias": false,
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
           "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "background-color": "@bgColor"
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            "#outerdiv": {
+              "width": "100%",
+              "height": "220px",
+              "min-height": "100px",
+              "overflow": "hidden",
+              "border-style": "solid",
+              "position": "absolute",
+              "right": "0",
+              "bottom": "0",
+              "left": "0"
+            },
+            "#inneriframe": {
+              "position": "absolute",
+              "top": "--0px",
+              "left": "0px",
+              "width": "100%",
+              "height": "100%"
+            }
           },
-          "_name": "content11",
+          "_name": "custom-html",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=10YxFqQry47Sw21AIKQ6bqEGOHcjNwZdg\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Femenino</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=176UwzF_O0hMkdwnlD1THTszrMBF2eQV1\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Fem. Adaptada</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1TfZ0VEbK0-G4Sbl2ov7Dh3mIbl1hsW_v\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Fem. Master</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1BWye-cl91uD0rLlNf15MlQSiNUUY3IaT\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Masculino</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1z8k-CdrHmqli53sOg5e6SyhZM3HoZ-yT\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Masc. Adaptada</a> <a class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1JgR3scwwIUUhnHprP1CZlDusLC7V6ShW\" data-app-placeholder=\"Type Text\" target=\"_blank\">p50 Masc. Master</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content11-48",
-          "_isUserblock": true,
-          "_cid": "sgANKVxj3I",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div id=\"outerdiv\">\n<iframe src=\"https://rfen.es/competitions/swimming/rankings/licenses\" id=\"inneriframe\" scrolling=\"yes\"></iframe>\n</div>\n</section>",
+          "_cid": "srhG6qw1vl",
+          "_anchor": "custom-html-8i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
