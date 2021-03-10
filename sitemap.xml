@@ -27,9 +27,6 @@
 		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/calendario-convocatorias.html</loc>
 	</url>
 	<url>
-		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/records.html</loc>
-	</url>
-	<url>
 		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/voluntarios.html</loc>
 	</url>
 	<url>
@@ -52,5 +49,8 @@
 	</url>
 	<url>
 		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/directo.html</loc>
+	</url>
+	<url>
+		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/records.html</loc>
 	</url>
 </urlset>
