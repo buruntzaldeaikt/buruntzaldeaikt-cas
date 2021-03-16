@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "index.html",
+    "currentPage": "calendario-convocatorias.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -50,7 +50,7 @@
       }
     ],
     "uniqCompNum": 318,
-    "versionPublish": "5.3.0",
+    "versionPublish": "5.2.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
