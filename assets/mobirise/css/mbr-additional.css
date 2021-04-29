@@ -11637,7 +11637,7 @@ a {
 .cid-svLTMnAy59 {
   padding-top: 5rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/cas-escolares-2000x1414.png");
 }
 .cid-svLTMnAy59 .nav-tabs .nav-item.open .nav-link:focus,
 .cid-svLTMnAy59 .nav-tabs .nav-link.active:focus {
@@ -11885,7 +11885,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-svLRTCsvzW .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-svLRTCsvzW .navbar.collapsed .dropdown-menu .dropdown-submenu {
