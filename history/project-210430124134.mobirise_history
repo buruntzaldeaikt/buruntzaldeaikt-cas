@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "index.html",
+    "currentPage": "preinscripcion2122.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,7 +49,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 359,
+    "uniqCompNum": 358,
     "versionPublish": "5.3.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -138,39 +138,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "modalName": "20212022",
-            "modalSize": "medium",
-            "modalHeader": true,
-            "modalTitle": "Pre-inscripción abierta temporada 2021/2022",
-            "modalBody": "<img src=\"https://1.bp.blogspot.com/-TRYV0QL3t0w/YIvXVDgyd4I/AAAAAAAA4yY/Y81xGSu98S4QcEtXIo3Ai6U9qbzaiBmTwCLcBGAsYHQ/s16000/CAS_escolares.png\">",
-            "modalBodyHTML": true,
-            "modalFooter": true,
-            "modalCloseBtn": false,
-            "modalCloseText": "Close",
-            "modalLink": true,
-            "modalLinkUrl": "https://www.es.buruntzaldeaikt.eus/preinscripcion2122.html",
-            "modalLinkText": "Más información",
-            "modalLinkNewWindow": false,
-            "modalVerticalCenter": true,
-            "modalFade": true,
-            "modalAutoOpen": true,
-            "modalAutoOpenOnce": true,
-            "modalAutoOpenGDPR": false,
-            "modalAutoOpenDelay": "3"
-          },
-          "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#20212022\">Preview 20212022</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#20212022-howtouse\">How to use 20212022</a>\n</div>\n<div class=\"modal fade\" id=\"20212022-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"20212022-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"20212022-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('20212022')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
-          "modalBody": "<img src=\"https://1.bp.blogspot.com/-TRYV0QL3t0w/YIvXVDgyd4I/AAAAAAAA4yY/Y81xGSu98S4QcEtXIo3Ai6U9qbzaiBmTwCLcBGAsYHQ/s16000/CAS_escolares.png\">",
-          "alias": "witsec-modal-window",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "witsec-modal-window-block",
-          "_sourceTheme": "mobirise5",
-          "_anchor": "witsec-modal-window-block-9y",
-          "modalWindow": "<div class=\"modal fade\" id=\"20212022\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"20212022Label\" aria-hidden=\"true\">  <div class=\"modal-dialog  modal-dialog-centered\" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"20212022Label\">Pre-inscripción abierta temporada 2021/2022</h5>  <a href=\"#\" class=\"no-anim close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"20212022_body\"><img src=\"https://1.bp.blogspot.com/-TRYV0QL3t0w/YIvXVDgyd4I/AAAAAAAA4yY/Y81xGSu98S4QcEtXIo3Ai6U9qbzaiBmTwCLcBGAsYHQ/s16000/CAS_escolares.png\"></div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"https://www.es.buruntzaldeaikt.eus/preinscripcion2122.html\" class=\"no-anim btn btn-primary display-4\" >Más información</a></div></div>    </div>  </div></div><script>document.addEventListener(\"DOMContentLoaded\", function() {  $(\"#20212022\").on(\"hidden.bs.modal\", function () {    var html = $( \"#20212022_body\" ).html();    $( \"#20212022_body\" ).empty();    $( \"#20212022_body\" ).append(html);  })});</script>"
         },
         {
           "alias": false,
