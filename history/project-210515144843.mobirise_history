@@ -13744,12 +13744,12 @@
           "_anchor": "team2-a3",
           "_isUserblock": true,
           "_cid": "sxtX8RHlKS",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
