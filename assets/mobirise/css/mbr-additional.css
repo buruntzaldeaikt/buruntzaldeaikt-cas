@@ -12268,202 +12268,111 @@ a {
     left: -1rem;
   }
 }
-.cid-svLRTyvuLV {
+.cid-shPuHRbCLL {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/buruntzaldea-ikt-34473299073-o-2000x1333.jpg");
+  background-image: url("../../../assets/images/estua-1-2000x463.jpg");
 }
-.cid-svLRTyvuLV .mbr-section-title {
+.cid-shPuHRbCLL .mbr-section-title {
   text-align: center;
   color: #ffffff;
 }
-.cid-svLRTyvuLV .mbr-text,
-.cid-svLRTyvuLV .mbr-section-btn {
+.cid-shPuHRbCLL .mbr-text,
+.cid-shPuHRbCLL .mbr-section-btn {
   color: #ffffff;
   text-align: center;
 }
 @media (max-width: 991px) {
-  .cid-svLRTyvuLV .mbr-section-title,
-  .cid-svLRTyvuLV .mbr-section-btn,
-  .cid-svLRTyvuLV .mbr-text {
+  .cid-shPuHRbCLL .mbr-section-title,
+  .cid-shPuHRbCLL .mbr-section-btn,
+  .cid-shPuHRbCLL .mbr-text {
     text-align: center;
   }
 }
-.cid-svLTMnAy59 {
+.cid-shPuX4xrmc {
   padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/cas-escolares-2000x1414.png");
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
-.cid-svLTMnAy59 .nav-tabs .nav-item.open .nav-link:focus,
-.cid-svLTMnAy59 .nav-tabs .nav-link.active:focus {
-  outline: none;
-}
-.cid-svLTMnAy59 .nav-tabs {
-  flex-wrap: wrap;
-  border-bottom: 1px solid #054d07;
+.cid-shPuX4xrmc .card-wrapper {
+  background: #e1e9de;
+  border-radius: 4px;
 }
 @media (max-width: 767px) {
-  .cid-svLTMnAy59 .nav-item {
-    width: 100%;
-    margin: 0;
+  .cid-shPuX4xrmc .card-wrapper {
+    padding: 1rem;
   }
 }
-.cid-svLTMnAy59 .nav-tabs .nav-link {
-  transition: all .5s;
-  border: none;
-  border-bottom: 3px solid transparent;
-  border-radius: 0 !important;
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-shPuX4xrmc .card-wrapper {
+    padding: 2rem;
+  }
 }
-.cid-svLTMnAy59 .nav-tabs .nav-link:not(.active) {
-  color: #232323;
+@media (min-width: 992px) {
+  .cid-shPuX4xrmc .card-wrapper {
+    padding: 4rem;
+  }
 }
-.cid-svLTMnAy59 .nav-tabs .nav-item {
-  margin-right: 1.5rem;
+.cid-shPuX4xrmc .mbr-text,
+.cid-shPuX4xrmc .mbr-section-btn {
+  color: #ffffff;
 }
-.cid-svLTMnAy59 .nav-link,
-.cid-svLTMnAy59 .nav-link.active {
-  padding: 1rem 0;
-  background-color: transparent;
-}
-.cid-svLTMnAy59 .nav-tabs .nav-link.active {
+.cid-shPuX4xrmc .card-title,
+.cid-shPuX4xrmc .card-box {
+  text-align: left;
   color: #054d07;
-  border-bottom: 3px solid #054d07;
 }
-.cid-svLTMnAy59 H4 {
+.cid-shPuX4xrmc .card-title,
+.cid-shPuX4xrmc .card-box DIV {
   text-align: center;
 }
-.cid-svLTMnAy59 H3 {
-  text-align: center;
-}
-.cid-svLTMnAy59 p {
-  text-align: justify;
-}
-.cid-svMjoCU3XA body,
-.cid-svMjoCU3XA html {
-  height: 100%;
-  margin: 0;
-  font-family: Arial;
-}
-.cid-svMjoCU3XA .tablink {
-  background-color: #555;
-  color: white;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  font-size: 17px;
-  width: 25%;
-}
-.cid-svMjoCU3XA .tablink:hover {
-  background-color: #777;
-}
-.cid-svMjoCU3XA .tabcontent {
-  color: white;
-  display: none;
-  padding: 100px 20px;
-  height: 100%;
-}
-.cid-svMjoCU3XA #Home {
-  background-color: red;
-}
-.cid-svMjoCU3XA #News {
-  background-color: green;
-}
-.cid-svMjoCU3XA #Contact {
-  background-color: blue;
-}
-.cid-svMjoCU3XA #About {
-  background-color: orange;
-}
-.cid-svMiLtWyFi {
-  background-color: #efefef;
-}
-.cid-svMiLtWyFi body,
-.cid-svMiLtWyFi html {
-  height: 100%;
-  margin: 0;
-  font-family: Arial;
-}
-.cid-svMiLtWyFi .tablink {
-  background-color: #555;
-  color: white;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  font-size: 17px;
-  width: 25%;
-}
-.cid-svMiLtWyFi .tablink:hover {
-  background-color: #777;
-}
-.cid-svMiLtWyFi .tabcontent {
-  color: white;
-  display: none;
-  padding: 100px 20px;
-  height: 100%;
-}
-.cid-svMiLtWyFi #Home {
-  background-color: red;
-}
-.cid-svMiLtWyFi #News {
-  background-color: green;
-}
-.cid-svMiLtWyFi #Contact {
-  background-color: blue;
-}
-.cid-svMiLtWyFi #About {
-  background-color: orange;
-}
-.cid-svLRTHOUR0 {
+.cid-shPuHV5odl {
   padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #232323;
 }
-.cid-svLRTHOUR0 .media-wrap {
+.cid-shPuHV5odl .media-wrap {
   padding: 0;
 }
 @media (max-width: 991px) {
-  .cid-svLRTHOUR0 .media-wrap {
+  .cid-shPuHV5odl .media-wrap {
     margin-bottom: 1rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-svLRTHOUR0 .row {
+  .cid-shPuHV5odl .row {
     text-align: center;
   }
-  .cid-svLRTHOUR0 .row > div {
+  .cid-shPuHV5odl .row > div {
     margin: auto;
   }
-  .cid-svLRTHOUR0 .social-row {
+  .cid-shPuHV5odl .social-row {
     justify-content: center;
   }
 }
-.cid-svLRTHOUR0 .social-row {
+.cid-shPuHV5odl .social-row {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-svLRTHOUR0 .list {
+.cid-shPuHV5odl .list {
   list-style: none;
   padding-left: 0;
   color: #ffffff;
 }
 @media (max-width: 991px) {
-  .cid-svLRTHOUR0 .list {
+  .cid-shPuHV5odl .list {
     margin-bottom: 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-svLRTHOUR0 .list {
+  .cid-shPuHV5odl .list {
     margin-bottom: 0rem;
   }
 }
-.cid-svLRTHOUR0 .mbr-text {
+.cid-shPuHV5odl .mbr-text {
   color: #bbbbbb;
 }
-.cid-svLRTHOUR0 .soc-item {
+.cid-shPuHV5odl .soc-item {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -12475,11 +12384,11 @@ a {
   height: 2.5rem;
   width: 2.5rem;
 }
-.cid-svLRTHOUR0 .mbr-iconfont {
+.cid-shPuHV5odl .mbr-iconfont {
   color: black;
 }
 @media (max-width: 991px) {
-  .cid-svLRTHOUR0 div > *:last-child {
+  .cid-shPuHV5odl div > *:last-child {
     margin-top: 0 !important;
   }
 }
@@ -12825,111 +12734,202 @@ a {
     left: -1rem;
   }
 }
-.cid-shPuHRbCLL {
+.cid-svLRTyvuLV {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/estua-1-2000x463.jpg");
+  background-image: url("../../../assets/images/buruntzaldea-ikt-34473299073-o-2000x1333.jpg");
 }
-.cid-shPuHRbCLL .mbr-section-title {
+.cid-svLRTyvuLV .mbr-section-title {
   text-align: center;
   color: #ffffff;
 }
-.cid-shPuHRbCLL .mbr-text,
-.cid-shPuHRbCLL .mbr-section-btn {
+.cid-svLRTyvuLV .mbr-text,
+.cid-svLRTyvuLV .mbr-section-btn {
   color: #ffffff;
   text-align: center;
 }
 @media (max-width: 991px) {
-  .cid-shPuHRbCLL .mbr-section-title,
-  .cid-shPuHRbCLL .mbr-section-btn,
-  .cid-shPuHRbCLL .mbr-text {
+  .cid-svLRTyvuLV .mbr-section-title,
+  .cid-svLRTyvuLV .mbr-section-btn,
+  .cid-svLRTyvuLV .mbr-text {
     text-align: center;
   }
 }
-.cid-shPuX4xrmc {
+.cid-svLTMnAy59 {
   padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/cas-escolares-2000x1414.png");
 }
-.cid-shPuX4xrmc .card-wrapper {
-  background: #e1e9de;
-  border-radius: 4px;
+.cid-svLTMnAy59 .nav-tabs .nav-item.open .nav-link:focus,
+.cid-svLTMnAy59 .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-svLTMnAy59 .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #054d07;
 }
 @media (max-width: 767px) {
-  .cid-shPuX4xrmc .card-wrapper {
-    padding: 1rem;
+  .cid-svLTMnAy59 .nav-item {
+    width: 100%;
+    margin: 0;
   }
 }
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-shPuX4xrmc .card-wrapper {
-    padding: 2rem;
-  }
+.cid-svLTMnAy59 .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0 !important;
 }
-@media (min-width: 992px) {
-  .cid-shPuX4xrmc .card-wrapper {
-    padding: 4rem;
-  }
+.cid-svLTMnAy59 .nav-tabs .nav-link:not(.active) {
+  color: #232323;
 }
-.cid-shPuX4xrmc .mbr-text,
-.cid-shPuX4xrmc .mbr-section-btn {
-  color: #ffffff;
+.cid-svLTMnAy59 .nav-tabs .nav-item {
+  margin-right: 1.5rem;
 }
-.cid-shPuX4xrmc .card-title,
-.cid-shPuX4xrmc .card-box {
-  text-align: left;
+.cid-svLTMnAy59 .nav-link,
+.cid-svLTMnAy59 .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-svLTMnAy59 .nav-tabs .nav-link.active {
   color: #054d07;
+  border-bottom: 3px solid #054d07;
 }
-.cid-shPuX4xrmc .card-title,
-.cid-shPuX4xrmc .card-box DIV {
+.cid-svLTMnAy59 H4 {
   text-align: center;
 }
-.cid-shPuHV5odl {
+.cid-svLTMnAy59 H3 {
+  text-align: center;
+}
+.cid-svLTMnAy59 p {
+  text-align: justify;
+}
+.cid-svMjoCU3XA body,
+.cid-svMjoCU3XA html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+.cid-svMjoCU3XA .tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+.cid-svMjoCU3XA .tablink:hover {
+  background-color: #777;
+}
+.cid-svMjoCU3XA .tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+.cid-svMjoCU3XA #Home {
+  background-color: red;
+}
+.cid-svMjoCU3XA #News {
+  background-color: green;
+}
+.cid-svMjoCU3XA #Contact {
+  background-color: blue;
+}
+.cid-svMjoCU3XA #About {
+  background-color: orange;
+}
+.cid-svMiLtWyFi {
+  background-color: #efefef;
+}
+.cid-svMiLtWyFi body,
+.cid-svMiLtWyFi html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+.cid-svMiLtWyFi .tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+.cid-svMiLtWyFi .tablink:hover {
+  background-color: #777;
+}
+.cid-svMiLtWyFi .tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+.cid-svMiLtWyFi #Home {
+  background-color: red;
+}
+.cid-svMiLtWyFi #News {
+  background-color: green;
+}
+.cid-svMiLtWyFi #Contact {
+  background-color: blue;
+}
+.cid-svMiLtWyFi #About {
+  background-color: orange;
+}
+.cid-svLRTHOUR0 {
   padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #232323;
 }
-.cid-shPuHV5odl .media-wrap {
+.cid-svLRTHOUR0 .media-wrap {
   padding: 0;
 }
 @media (max-width: 991px) {
-  .cid-shPuHV5odl .media-wrap {
+  .cid-svLRTHOUR0 .media-wrap {
     margin-bottom: 1rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-shPuHV5odl .row {
+  .cid-svLRTHOUR0 .row {
     text-align: center;
   }
-  .cid-shPuHV5odl .row > div {
+  .cid-svLRTHOUR0 .row > div {
     margin: auto;
   }
-  .cid-shPuHV5odl .social-row {
+  .cid-svLRTHOUR0 .social-row {
     justify-content: center;
   }
 }
-.cid-shPuHV5odl .social-row {
+.cid-svLRTHOUR0 .social-row {
   display: flex;
   flex-wrap: wrap;
 }
-.cid-shPuHV5odl .list {
+.cid-svLRTHOUR0 .list {
   list-style: none;
   padding-left: 0;
   color: #ffffff;
 }
 @media (max-width: 991px) {
-  .cid-shPuHV5odl .list {
+  .cid-svLRTHOUR0 .list {
     margin-bottom: 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-shPuHV5odl .list {
+  .cid-svLRTHOUR0 .list {
     margin-bottom: 0rem;
   }
 }
-.cid-shPuHV5odl .mbr-text {
+.cid-svLRTHOUR0 .mbr-text {
   color: #bbbbbb;
 }
-.cid-shPuHV5odl .soc-item {
+.cid-svLRTHOUR0 .soc-item {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -12941,11 +12941,11 @@ a {
   height: 2.5rem;
   width: 2.5rem;
 }
-.cid-shPuHV5odl .mbr-iconfont {
+.cid-svLRTHOUR0 .mbr-iconfont {
   color: black;
 }
 @media (max-width: 991px) {
-  .cid-shPuHV5odl div > *:last-child {
+  .cid-svLRTHOUR0 div > *:last-child {
     margin-top: 0 !important;
   }
 }
