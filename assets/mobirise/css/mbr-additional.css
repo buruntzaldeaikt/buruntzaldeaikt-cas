@@ -12755,54 +12755,52 @@ a {
     text-align: center;
   }
 }
-.cid-svLTMnAy59 {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/cas-escolares-2000x1414.png");
+.cid-sAoltx8ezr {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  text-align: justify;
+  background-color: #ffffff;
 }
-.cid-svLTMnAy59 .nav-tabs .nav-item.open .nav-link:focus,
-.cid-svLTMnAy59 .nav-tabs .nav-link.active:focus {
+.cid-sAoltx8ezr .nav-tabs .nav-item.open .nav-link:focus,
+.cid-sAoltx8ezr .nav-tabs .nav-link.active:focus {
   outline: none;
 }
-.cid-svLTMnAy59 .nav-tabs {
+.cid-sAoltx8ezr .nav-tabs {
   flex-wrap: wrap;
   border-bottom: 1px solid #054d07;
 }
 @media (max-width: 767px) {
-  .cid-svLTMnAy59 .nav-item {
+  .cid-sAoltx8ezr .nav-item {
     width: 100%;
     margin: 0;
   }
 }
-.cid-svLTMnAy59 .nav-tabs .nav-link {
+.cid-sAoltx8ezr .nav-tabs .nav-link {
   transition: all .5s;
   border: none;
   border-bottom: 3px solid transparent;
   border-radius: 0 !important;
 }
-.cid-svLTMnAy59 .nav-tabs .nav-link:not(.active) {
-  color: #232323;
+.cid-sAoltx8ezr .nav-tabs .nav-link:not(.active) {
+  color: #000000;
 }
-.cid-svLTMnAy59 .nav-tabs .nav-item {
+.cid-sAoltx8ezr .nav-tabs .nav-item {
   margin-right: 1.5rem;
 }
-.cid-svLTMnAy59 .nav-link,
-.cid-svLTMnAy59 .nav-link.active {
+.cid-sAoltx8ezr .nav-link,
+.cid-sAoltx8ezr .nav-link.active {
   padding: 1rem 0;
   background-color: transparent;
 }
-.cid-svLTMnAy59 .nav-tabs .nav-link.active {
+.cid-sAoltx8ezr .nav-tabs .nav-link.active {
   color: #054d07;
   border-bottom: 3px solid #054d07;
 }
-.cid-svLTMnAy59 H4 {
+.cid-sAoltx8ezr H4 {
   text-align: center;
 }
-.cid-svLTMnAy59 H3 {
+.cid-sAoltx8ezr H3 {
   text-align: center;
-}
-.cid-svLTMnAy59 p {
-  text-align: justify;
 }
 .cid-svMjoCU3XA body,
 .cid-svMjoCU3XA html {
