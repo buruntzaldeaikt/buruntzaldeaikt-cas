@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "index.html",
+    "currentPage": "covid19.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -87,7 +87,9 @@
     "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9HBHKX8SXK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9HBHKX8SXK');\n</script>\n",
     "global_after_body": "<meta name=\"title\" content=\"Buruntzaldea IKT Igeriketa-Natación\">\n<meta name=\"description\" content=\"Buruntzaldea IKT es un club de natación que lleva a cabo la actividad en Lasarte-Oria y Andoain. Se fundó en 2007 y actualmente reúne a más de 120 nadadores. Las actividades del club son la natación escolar, la natación federada, la natación adaptada, la natación máster, la natación participativa y el triatlón.\">\n<meta name=\"keywords\" content=\"BIKT, Buruntzaldea, buruntzaldea, bikt, natación, lasarte, lasarte-oria, andoain, aprender, aprendizaje, club, equipo, estilos, escolar, federado, federada, adaptada, participación, participar, master, masters, voluntarios, voluntarias, misión, visión, valores, triatlón, estilos, calendario, récords, noticias, blog, covid19, diario, dia, 2020/2021, convocatorias, citas, 696506632, info@buruntzaldeaikt.eus, lan poltsa, brnpwr, BRNPWR, crol, espalda, mariposa, braza\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<meta name=\"author\" content=\"Buruntzaldea IKT\">\n\n\n",
     "witsec-language": "es",
-    "mbrsiteDomain": "tplfgldguj"
+    "mbrsiteDomain": "tplfgldguj",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -538,14 +540,14 @@
             "modalName": "20212022",
             "modalSize": "medium",
             "modalHeader": true,
-            "modalTitle": "Inscripción abierta temporada 2021/2022",
-            "modalBody": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FBuruntzaldeaIKT%2Fvideos%2F327270718839231%2F&show_text=false&width=475&t=0\" width=\"475\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+            "modalTitle": "Pre-inscripción abierta temporada 2021/2022",
+            "modalBody": "<img src=\"https://1.bp.blogspot.com/-TRYV0QL3t0w/YIvXVDgyd4I/AAAAAAAA4yY/Y81xGSu98S4QcEtXIo3Ai6U9qbzaiBmTwCLcBGAsYHQ/s16000/CAS_escolares.png\">",
             "modalBodyHTML": true,
             "modalFooter": true,
             "modalCloseBtn": false,
             "modalCloseText": "Close",
             "modalLink": true,
-            "modalLinkUrl": "https://www.es.buruntzaldeaikt.eus/inscripcion2122.html",
+            "modalLinkUrl": "https://www.es.buruntzaldeaikt.eus/preinscripcion2122.html",
             "modalLinkText": "Más información",
             "modalLinkNewWindow": false,
             "modalVerticalCenter": true,
@@ -556,7 +558,7 @@
             "modalAutoOpenDelay": "3"
           },
           "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#20212022\">Preview 20212022</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#20212022-howtouse\">How to use 20212022</a>\n</div>\n<div class=\"modal fade\" id=\"20212022-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"20212022-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"20212022-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('20212022')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
-          "modalBody": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FBuruntzaldeaIKT%2Fvideos%2F327270718839231%2F&show_text=false&width=475&t=0\" width=\"475\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>",
+          "modalBody": "<img src=\"https://1.bp.blogspot.com/-TRYV0QL3t0w/YIvXVDgyd4I/AAAAAAAA4yY/Y81xGSu98S4QcEtXIo3Ai6U9qbzaiBmTwCLcBGAsYHQ/s16000/CAS_escolares.png\">",
           "alias": "witsec-modal-window",
           "_tags": [
             "Extension"
@@ -564,7 +566,7 @@
           "_name": "witsec-modal-window-block",
           "_sourceTheme": "mobirise5",
           "_anchor": "witsec-modal-window-block-9y",
-          "modalWindow": "<div class=\"modal fade\" id=\"20212022\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"20212022Label\" aria-hidden=\"true\">  <div class=\"modal-dialog  modal-dialog-centered\" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"20212022Label\">Inscripción abierta temporada 2021/2022</h5>  <a href=\"#\" class=\"no-anim close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"20212022_body\"><iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FBuruntzaldeaIKT%2Fvideos%2F327270718839231%2F&show_text=false&width=475&t=0\" width=\"475\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe></div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"https://www.es.buruntzaldeaikt.eus/inscripcion2122.html\" class=\"no-anim btn btn-primary display-4\" >Más información</a></div></div>    </div>  </div></div><script>document.addEventListener(\"DOMContentLoaded\", function() {  $(\"#20212022\").on(\"hidden.bs.modal\", function () {    var html = $( \"#20212022_body\" ).html();    $( \"#20212022_body\" ).empty();    $( \"#20212022_body\" ).append(html);  })});</script>"
+          "modalWindow": "<div class=\"modal fade\" id=\"20212022\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"20212022Label\" aria-hidden=\"true\">  <div class=\"modal-dialog  modal-dialog-centered\" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"20212022Label\">Pre-inscripción abierta temporada 2021/2022</h5>  <a href=\"#\" class=\"no-anim close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"20212022_body\"><img src=\"https://1.bp.blogspot.com/-TRYV0QL3t0w/YIvXVDgyd4I/AAAAAAAA4yY/Y81xGSu98S4QcEtXIo3Ai6U9qbzaiBmTwCLcBGAsYHQ/s16000/CAS_escolares.png\"></div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"https://www.es.buruntzaldeaikt.eus/preinscripcion2122.html\" class=\"no-anim btn btn-primary display-4\" >Más información</a></div></div>    </div>  </div></div><script>document.addEventListener(\"DOMContentLoaded\", function() {  $(\"#20212022\").on(\"hidden.bs.modal\", function () {    var html = $( \"#20212022_body\" ).html();    $( \"#20212022_body\" ).empty();    $( \"#20212022_body\" ).append(html);  })});</script>"
         },
         {
           "alias": false,
