@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "index.html",
+    "currentPage": "politicadecookies.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -72,10 +72,12 @@
     "publishChangesOnly": true,
     "witsec-mailform": false,
     "witsec-white-label": true,
-    "global_header_custom": "<script type=\"text/javascript\" data-cmp-ab=\"1\" src=\"https://cdn.consentmanager.mgr.consensu.org/delivery/automatic.min.js\" data-cmp-id=\"30523\" data-cmp-host=\"consentmanager.mgr.consensu.org\" data-cmp-cdn=\"cdn.consentmanager.mgr.consensu.org\"></script>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9HBHKX8SXK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9HBHKX8SXK');\n</script>\n",
+    "global_header_custom": "<script id=\"Cookiebot\" src=\"https://consent.cookiebot.com/uc.js\" data-cbid=\"e1a0ee0e-3af1-48fa-b047-05d06ceb1572\" data-blockingmode=\"auto\" type=\"text/javascript\"></script>\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9HBHKX8SXK\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9HBHKX8SXK');\n</script>\n",
     "global_after_body": "<meta name=\"title\" content=\"Buruntzaldea IKT Igeriketa-Natación\">\n<meta name=\"description\" content=\"Buruntzaldea IKT es un club de natación que lleva a cabo la actividad en Lasarte-Oria y Andoain. Se fundó en 2007 y actualmente reúne a más de 120 nadadores. Las actividades del club son la natación escolar, la natación federada, la natación adaptada, la natación máster, la natación participativa y el triatlón.\">\n<meta name=\"keywords\" content=\"BIKT, Buruntzaldea, buruntzaldea, bikt, natación, lasarte, lasarte-oria, andoain, aprender, aprendizaje, club, equipo, estilos, escolar, federado, federada, adaptada, participación, participar, master, masters, voluntarios, voluntarias, misión, visión, valores, triatlón, estilos, calendario, récords, noticias, blog, covid19, diario, dia, 2020/2021, convocatorias, citas, 696506632, info@buruntzaldeaikt.eus, lan poltsa, brnpwr, BRNPWR, crol, espalda, mariposa, braza\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<meta name=\"author\" content=\"Buruntzaldea IKT\">\n\n\n",
     "witsec-language": "es",
-    "mbrsiteDomain": "xacdwmz8ze",
+    "mbrsiteDomain": "dyotg9vkqg",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "cookiesAlert": false
   },
   "pages": {
