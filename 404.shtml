@@ -25,7 +25,7 @@
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  <script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.mgr.consensu.org/delivery/automatic.min.js" data-cmp-id="30526" data-cmp-host="consentmanager.mgr.consensu.org" data-cmp-cdn="cdn.consentmanager.mgr.consensu.org"></script>
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1496dd97-e1b2-43f9-bf1f-4b5a1275923a" data-blockingmode="auto" type="text/javascript"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9HBHKX8SXK"></script>
@@ -50,7 +50,47 @@
 
 
 
-  <section class="menu cid-syfGI2b0qF" once="menu" id="menu1-s48OLK6784-ak">
+  <section class="header1 cid-shPuHRbCLL mbr-parallax-background" id="header1-5f">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.1; background-color: rgb(0, 0, 0);"></div>
+
+    <div class="align-center container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-9">
+                <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><br><br></h1>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content15 cid-shPuX4xrmc" id="content15-5j">
+
+    
+
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="card col-md-12 col-lg-10">
+                <div class="card-wrapper">
+                    <div class="card-box align-left">
+                        <h4 class="card-title mbr-fonts-style mbr-white mb-3 display-2">
+                            <strong>404
+</strong><div><strong>No se ha encontrado la página que buscas</strong></div></h4>
+                        
+                        <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-4" href="index.html">IR AL INICIO</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="menu cid-syfGI2b0qF" once="menu" id="menu1-s48OLK6784-ak">
     
     <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
         <div class="container-fluid">
@@ -94,47 +134,7 @@
 
 </section>
 
-<section class="header1 cid-shPuHRbCLL mbr-parallax-background" id="header1-5f">
-
-    
-
-    <div class="mbr-overlay" style="opacity: 0.1; background-color: rgb(0, 0, 0);"></div>
-
-    <div class="align-center container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-12 col-lg-9">
-                <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><br><br></h1>
-                
-                
-                
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="content15 cid-shPuX4xrmc" id="content15-5j">
-
-    
-
-    
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="card col-md-12 col-lg-10">
-                <div class="card-wrapper">
-                    <div class="card-box align-left">
-                        <h4 class="card-title mbr-fonts-style mbr-white mb-3 display-2">
-                            <strong>404
-</strong><div><strong>No se ha encontrado la página que buscas</strong></div></h4>
-                        
-                        <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-4" href="index.html">IR AL INICIO</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="footer4 cid-shPuHV5odl" once="footers" id="footer4-5i">
+<section class="footer4 cid-sBIVFQeB4d" once="footers" id="footer4-b4">
 
     
     
