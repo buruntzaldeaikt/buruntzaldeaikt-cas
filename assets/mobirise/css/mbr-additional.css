@@ -4523,11 +4523,6 @@ a {
     margin-top: 0 !important;
   }
 }
-.cid-sDuWBUveVg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
 .cid-syfGI2b0qF {
   z-index: 1000;
   width: 100%;
@@ -4869,6 +4864,11 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sDGJziIOmK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
 .cid-sBIVFQeB4d {
   padding-top: 1rem;
