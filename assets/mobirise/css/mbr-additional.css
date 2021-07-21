@@ -2417,145 +2417,78 @@ a {
 .cid-sgvD7vAJFd .mbr-text {
   color: #000000;
 }
-.cid-VhUBJAPZnD {
-  padding-top: 75px;
+.cid-sDOaKTtTfW {
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-VhUBJAPZnD .mbr-text {
-  color: #767676;
+.cid-sDOaKTtTfW * {
+  box-sizing: border-box;
 }
-.cid-VhUBJAPZnD h4 {
+.cid-sDOaKTtTfW body {
+  margin: 0;
+  font-family: Jost;
+  padding: 20px;
+}
+.cid-sDOaKTtTfW .column {
+  float: left;
+  width: 16.66%;
+  padding: 50px;
   text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  color: black;
 }
-.cid-VhUBJAPZnD p {
-  text-align: center;
+.cid-sDOaKTtTfW .containerTab {
+  padding: 20px;
+  color: black;
 }
-.cid-VhUBJAPZnD .badge {
-  position: relative;
-  width: 250px;
-  display: inline-block;
-  margin: 0 8px 8px 8px;
+.cid-sDOaKTtTfW .row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
-.cid-VhUBJAPZnD .badge svg {
-  width: 250px;
+.cid-sDOaKTtTfW .closebtn {
+  float: right;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
 }
-.cid-VhUBJAPZnD .title {
-  position: absolute;
-  top: -28px;
-  border-radius: 8px 8px 0 0;
-  text-align: center;
-  width: 100%;
-  padding: 20px 0;
-  color: #232323;
-}
-.cid-VhUBJAPZnD .subtitle {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  color: #ffffff;
-  top: 100px;
-}
-.cid-VhUBJAPZnD .stars {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  color: #ffffff;
-  top: 140px;
-}
-.cid-VhUBJAPZnD .cBadge1 .title {
-  background: #dc514e;
-}
-.cid-VhUBJAPZnD .cBadge1 .subtitle:after {
-  color: #dc514e;
-}
-.cid-VhUBJAPZnD .cBadge2 .title {
-  background: #2ecc71;
-}
-.cid-VhUBJAPZnD .cBadge2 .subtitle:after {
-  color: #2ecc71;
-}
-.cid-VhUBJAPZnD .cBadge3 .title {
-  background: #95a5a6;
-}
-.cid-VhUBJAPZnD .cBadge3 .subtitle:after {
-  color: #95a5a6;
-}
-.cid-VhUBJAPZnD .cBadge4 .title {
-  background: #f1c40f;
-}
-.cid-VhUBJAPZnD .cBadge4 .subtitle:after {
-  color: #f1c40f;
-}
-.cid-svolUJczxw {
-  padding-top: 75px;
+.cid-sDOdiFSbm9 {
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-svolUJczxw .mbr-text {
-  color: #767676;
+.cid-sDOdiFSbm9 * {
+  box-sizing: border-box;
 }
-.cid-svolUJczxw h4 {
+.cid-sDOdiFSbm9 body {
+  margin: 0;
+  font-family: jost;
+}
+.cid-sDOdiFSbm9 .column {
+  float: left;
+  width: 20.00%;
+  padding: 50px;
   text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  color: black;
 }
-.cid-svolUJczxw p {
-  text-align: center;
+.cid-sDOdiFSbm9 .containerTab {
+  padding: 20px;
+  color: black;
 }
-.cid-svolUJczxw .badge {
-  position: relative;
-  width: 250px;
-  display: inline-block;
-  margin: 0 8px 8px 8px;
+.cid-sDOdiFSbm9 .row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
-.cid-svolUJczxw .badge svg {
-  width: 250px;
-}
-.cid-svolUJczxw .title {
-  position: absolute;
-  top: -28px;
-  border-radius: 8px 8px 0 0;
-  text-align: center;
-  width: 100%;
-  padding: 20px 0;
-  color: #232323;
-}
-.cid-svolUJczxw .subtitle {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  color: #ffffff;
-  top: 100px;
-}
-.cid-svolUJczxw .stars {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  color: #ffffff;
-  top: 140px;
-}
-.cid-svolUJczxw .cBadge1 .title {
-  background: #dc514e;
-}
-.cid-svolUJczxw .cBadge1 .subtitle:after {
-  color: #dc514e;
-}
-.cid-svolUJczxw .cBadge2 .title {
-  background: #2ecc71;
-}
-.cid-svolUJczxw .cBadge2 .subtitle:after {
-  color: #2ecc71;
-}
-.cid-svolUJczxw .cBadge3 .title {
-  background: #95a5a6;
-}
-.cid-svolUJczxw .cBadge3 .subtitle:after {
-  color: #95a5a6;
-}
-.cid-svolUJczxw .cBadge4 .title {
-  background: #f1c40f;
-}
-.cid-svolUJczxw .cBadge4 .subtitle:after {
-  color: #f1c40f;
+.cid-sDOdiFSbm9 .closebtn {
+  float: right;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
 }
 .cid-sgvD7yHYhC {
   padding-top: 6rem;
@@ -4113,7 +4046,7 @@ a {
   background-color: #ffffff;
 }
 .cid-sgSdmpWZNc .mbr-text {
-  text-align: right;
+  text-align: left;
 }
 .cid-syfGI2b0qF {
   z-index: 1000;
