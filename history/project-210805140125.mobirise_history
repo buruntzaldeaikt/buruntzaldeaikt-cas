@@ -53,7 +53,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 433,
+    "uniqCompNum": 432,
     "versionPublish": "5.3.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -19544,11 +19544,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "syfGI2b0qF",
-          "_anchor": "menu1-s48OLK6784-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-bx",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_anchor": "menu1-s48OLK6784-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-syfGI2b0qF-bx"
         },
         {
           "alias": false,
@@ -19586,32 +19586,6 @@
           "_anchor": "image3-bz",
           "_isUserblock": true,
           "_cid": "sFdjNckgOP",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "background-color": "@bgColor",
-            "text-align": "justify",
-            "& when (@reverseContent)": {
-              ".row": {
-                "flex-direction": "row-reverse"
-              }
-            }
-          },
-          "_name": "content10",
-          "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"content10\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"6\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md\">\n                <h5 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h5>\n                <h6 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-4\"><b>Calendario:</b><br><br>\n                <div>· 200 estilos: sábado 28 de agosto, de 9:00 a 11:35 en Tokio (2:00 a 4:35 en BIKT)\n<br></div><div>· 400 libre: martes 31 de agosto, de 9:00 a 11:35 en Tokio (2:00 a 4:35 en BIKT)\n</div><div>· 100 marip.: viernes 3 de septiembre: de 9:00 a 11:35 en Tokio (2:00 a 4:35 en BIKT)</div><br><div><b>Enlaces:</b></div><br><div>· <a href=\"https://www.paralimpicos.es/sites/default/files/inline-files/1%20Lista%20completa%20de%20seleccionados.pdf\" class=\"text-primary\" target=\"_blank\">Lista de deportistas seleccionados por deportes</a>\n</div><div>· <a href=\"https://drive.google.com/open?id=1oRy6y7xbGVl_b5IiXE6ivuhM8Ch9Rq6o\" class=\"text-primary\" target=\"_blank\">Ficha del dossier de prensa</a>\n</div><div>· <a href=\"https://tokio2020.paralimpicos.es/#/biografia/60abcef1936bae755751c3a3\" class=\"text-primary\" target=\"_blank\">Web (CPE)</a></div><div><br></div><br><div>📬 <a href=\"https://feedburner.google.com/fb/a/mailverify?uri=buruntzaldeaigeriketakiroltaldea-noticias\" class=\"text-primary\" target=\"_blank\">Suscríbete y recibe por email en tu buzón todas nuestras noticias</a></div></h6>\n            </div>\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">El Consejo Superior de Deportes (CSD), y el Comité Paralímpico Español (CPE), hicieron pública el 14 de julio la relación de 135 deportistas que acudirán a los Juegos Paralímpicos de Tokio, que se celebrarán entre el 24 de agosto y el 5 de septiembre, entre los que se encuentra nuestra nadadora Nahia Zudaire.\n<br>\n<br>La mínima B conseguida en el 400 libres en febrero en Barcelona, junto con los excelentes resultados del Europeo de Funchal y las World Series de Berlin le han servido para estar en la lista definitiva para Tokyo.\n<br>\n<br>Para ella serán los primeros Juegos Paralímpicos que esperamos que los disfrute al máximo. Nahia competirá en 400 libres, 100 mariposa y 200 cuatro estilos, pruebas en las que ostenta los actuales récords de España absolutos.</p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_JSplaceholders": [],
-          "_PHPplaceholders": [],
-          "_anchor": "content10-c0",
-          "_isUserblock": true,
-          "_cid": "sFdjYw1sOs",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -19689,11 +19663,11 @@
           "_customHTML": "<section class=\"footer4\" group=\"Footers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" global once=\"footers\" mbr-class=\"{\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Logo Size\" name=\"logoSize\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Social\" name=\"showSocial\" checked>\n        <input type=\"range\" name=\"socialCount\" title=\"Social Count\" min=\"1\" max=\"4\" step=\"1\" value=\"4\" condition=\"showSocial\">\n        <input type=\"checkbox\" title=\"Copyright\" name=\"showCopyright\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background8.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row mbr-white\">\n            <div class=\"col-6 col-lg-3\">\n                <div class=\"media-wrap col-md-{{4*logoSize}} col-12\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/bikt-121x121.png\" alt=\"Buruntzaldea IKT\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-6 col-lg-3\">\n                <h5 class=\"mbr-section-subtitle mbr-fonts-style mb-2\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\"><b>Contacto</b></h5>\n                <p class=\"mbr-text mbr-fonts-style mb-4\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                    Whatsapp: <a href=\"https://wa.me/34696506632\" class=\"text-white\">696 506 632</a><br>Email: <a href=\"mailto:info@buruntzaldeaikt.eus\" class=\"text-white\">info@buruntzaldeaikt.eus</a><br>Telefono: <a href=\"tel:+34-696506632\" class=\"text-white\">696 506 632</a></p>\n                <h5 class=\"mbr-section-subtitle mbr-fonts-style mb-3\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showTitle && showSocial\">\n                    <b>Síguenos</b></h5>\n                <div class=\"social-row display-7\" mbr-if=\"showSocial\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://facebook.com/buruntzaldeaikt\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont socicon-facebook socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"socialCount>1\">\n                        <a href=\"https://twitter.com/buruntzaldeaikt.eus\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont socicon-twitter socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"socialCount>2\">\n                        <a href=\"https://instagram.com/buruntzaldeaikt\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont socicon-instagram socicon\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\" mbr-if=\"socialCount>3\">\n                        <a href=\"https://youtube.com/c/buruntzaldeaiktEUS\" target=\"_blank\">\n                            <span mbr-icon class=\"mbr-iconfont socicon-youtube socicon\"></span>\n                        </a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-6 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\">\n                    <b>Nota Legal y Política de Privacidad</b><br></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><a href=\"nota-legal.html\" class=\"text-white\">Política de Privacidad</a></li><li class=\"mbr-text item-wrap\"><a href=\"politicadecookies.html\" class=\"text-white\">Política de Cookies</a></li>\n                </ul>\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\"><br><b>El Club</b></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><a href=\"lan-poltsa.html\" class=\"text-white\">Lan poltsa</a></li><li class=\"mbr-text item-wrap\"><a href=\"voluntarios.html\" class=\"text-white\">Voluntarias/os</a></li><li class=\"mbr-text item-wrap\">Misión, Visión y Valores</li><li class=\"mbr-text item-wrap\"><a href=\"assets/files/Dosier-dePatrocinio.pdf\" class=\"text-white text-primary\" target=\"_blank\">Dossier de Patrocinio</a></li><li class=\"mbr-text item-wrap\"><a href=\"historia.html\" class=\"text-white\">Un poco de historia</a></li>\n                </ul>\n            </div>\n            <div class=\"col-12 col-md-6 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\"><b>Otras webs</b></h5><ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://www.denda.buruntzaldeaikt.eus/\" class=\"text-white\">Tienda online</a></li><li class=\"mbr-text item-wrap\"><a href=\"https://www.lasartekosaria.buruntzaldeaikt.eus/\" class=\"text-white\">Trofeo Lasarte</a></li><li class=\"mbr-text item-wrap\"><a href=\"http://noticias.buruntzaldeaikt.eus/\" class=\"text-white\" target=\"_blank\">Blog&nbsp;Buruntzaldea IKT</a></li><li class=\"mbr-text item-wrap\"><a href=\"https://cehld.buruntzaldeaikt.eus\" class=\"text-white\" target=\"_blank\">CEHLD</a></li><li class=\"mbr-text item-wrap\"><br></li><li class=\"mbr-text item-wrap\"><a href=\"donaciones.html\" class=\"text-white\">Donaciones y aportaciones propias</a></li></ul></div>\n            <div class=\"col-12 mt-4\" mbr-if=\"showCopyright\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style copyright align-center\" mbr-theme-style=\"display-4\" data-app-selector=\".copyright\" data-app-placeholder=\"Type Text\">Oria-Urumeako Buruntzaldea Igeriketa Kirol Taldea (G20958682) - All Rights Reserved<br>Beko kale bidea 1, 2. solairua · 20160 Lasarte-Oria, Gipuzkoa</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "sBIVFQeB4d",
-          "_anchor": "footer4-by",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
+          "_params": {},
+          "_anchor": "footer4-by"
         }
       ]
     }
