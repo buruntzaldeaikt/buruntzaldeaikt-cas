@@ -2436,6 +2436,47 @@ a {
 .cid-sgvD7vAJFd .mbr-text {
   color: #000000;
 }
+.cid-sFvwRzEgFO {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFvjtjePxN {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFvjtjePxN .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-sFvjtjePxN .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sFvjtjePxN .mbr-iconfont {
+  font-size: 2rem;
+  color: #054d07;
+  padding-right: 1.5rem;
+}
+.cid-sFvjuDj6SF {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFvjuDj6SF .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-sFvjuDj6SF .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sFvjuDj6SF .mbr-iconfont {
+  font-size: 2rem;
+  color: #054d07;
+  padding-right: 1.5rem;
+}
 .cid-sDSfhkPilo {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3072,6 +3113,29 @@ a {
 .cid-sgkXZxiFjh .mbr-section-subtitle {
   text-align: justify;
 }
+.cid-sFwjS9dAAT {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFwjYIfhyu {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFwjYIfhyu .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-sFwjYIfhyu .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sFwjYIfhyu .mbr-iconfont {
+  font-size: 2rem;
+  color: #054d07;
+  padding-right: 1.5rem;
+}
 .cid-sgl15BYUCx {
   padding-top: 6rem;
   padding-bottom: 1rem;
@@ -3557,6 +3621,29 @@ a {
 }
 .cid-sgpWlGC0Lh .mbr-section-subtitle {
   text-align: justify;
+}
+.cid-sFwlFGptOv {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFwlQIg6R3 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFwlQIg6R3 .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-sFwlQIg6R3 .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sFwlQIg6R3 .mbr-iconfont {
+  font-size: 2rem;
+  color: #054d07;
+  padding-right: 1.5rem;
 }
 .cid-sgpWlJ4ym0 {
   padding-top: 6rem;
@@ -5036,8 +5123,8 @@ a {
   color: #232323;
 }
 .cid-sFnZNqGZoa {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   padding: 10% 10%;
   background-color: #ffffff;
 }
@@ -14970,7 +15057,7 @@ a {
 }
 .cid-sFdjYw1sOs {
   padding-top: 3rem;
-  padding-bottom: 5rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
   text-align: justify;
 }
