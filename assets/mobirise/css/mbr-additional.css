@@ -2479,7 +2479,7 @@ a {
 }
 .cid-sDSfhkPilo {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   position: relative;
   background: transparent;
 }
@@ -2550,6 +2550,81 @@ a {
   color: #232323;
 }
 .cid-sDSfhkPilo H4 {
+  text-align: left;
+}
+.cid-sHQb6praQM {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  position: relative;
+  background: transparent;
+}
+.cid-sHQb6praQM .fondcolor {
+  margin-top: 0px;
+  border-radius: 1px;
+  border: 2px solid #232323;
+  background: #e1e9de;
+}
+.cid-sHQb6praQM .card {
+  border-radius: 1px;
+  margin-bottom: 3px;
+}
+.cid-sHQb6praQM .card .card-header {
+  border-radius: 1px;
+  border: 0px;
+  padding: 0;
+}
+.cid-sHQb6praQM .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: 0;
+  line-height: normal;
+  align-items: center;
+}
+.cid-sHQb6praQM .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-sHQb6praQM .card .card-header a.panel-title h4 {
+  padding: 0rem 2rem;
+  border: 2px solid #232323;
+  margin-bottom: -1px;
+  border-radius: 1px;
+  background-color: #8dac8a;
+  display: -webkit-flex;
+}
+.cid-sHQb6praQM .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+  font-size: 25px;
+}
+.cid-sHQb6praQM .mbr-figure {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-sHQb6praQM .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sHQb6praQM .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-sHQb6praQM .mbr-text {
+  color: #232323;
+  text-align: center;
+}
+.cid-sHQb6praQM .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-sHQb6praQM H2 {
+  color: #232323;
+}
+.cid-sHQb6praQM H4 {
   text-align: left;
 }
 .cid-sDSkFoZuOp {
