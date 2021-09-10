@@ -15212,6 +15212,28 @@ a {
 .cid-sFdjYw1sOs .row {
   flex-direction: row-reverse;
 }
+.cid-sIArmFjf9y {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+  text-align: justify;
+}
+.cid-sIAsiFM9Ba {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sIAsiFM9Ba .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sIAsiFM9Ba .row {
+  flex-direction: row-reverse;
+}
+.cid-sIAsiFM9Ba img {
+  width: 100%;
+}
 .cid-sBIVFQeB4d {
   padding-top: 1rem;
   padding-bottom: 0rem;
