@@ -7,9 +7,7 @@
     "siteFonts": [],
     "theme": {},
     "currentPage": "index.html",
-    "versionPublish": "5.3.5",
-    "imageResize": true,
-    "uniqCompNum": 0
+    "versionPublish": "5.3.5"
   },
   "pages": {
     "index.html": {
