@@ -24,9 +24,6 @@
 		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/blog.html</loc>
 	</url>
 	<url>
-		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/calendario-convocatorias.html</loc>
-	</url>
-	<url>
 		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/voluntarios.html</loc>
 	</url>
 	<url>
@@ -61,5 +58,8 @@
 	</url>
 	<url>
 		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/politicadecookies.html</loc>
+	</url>
+	<url>
+		<loc>https://www.es.buruntzaldeaikt.eus/sitemap.xml/competición.html</loc>
 	</url>
 </urlset>
