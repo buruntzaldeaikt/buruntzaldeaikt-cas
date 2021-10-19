@@ -11664,11 +11664,15 @@ a {
   }
 }
 .cid-sFnZNqGZoa {
-  padding: 10% 10%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 15%;
   background-color: #ffffff;
 }
 .cid-sLO5n8m1UY {
-  padding: 10% 10%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 15%;
   background-color: #ffffff;
 }
 .cid-sLYWp4laJm {
@@ -11720,6 +11724,7 @@ a {
 }
 .cid-sLYWp4laJm .mbr-section-title {
   color: #232323;
+  text-align: left;
 }
 .cid-sLYWp4laJm .mbr-text,
 .cid-sLYWp4laJm .mbr-section-btn {
