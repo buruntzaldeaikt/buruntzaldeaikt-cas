@@ -10121,29 +10121,8 @@ a {
     left: -1rem;
   }
 }
-.cid-svLRTyvuLV {
-  padding-top: 10rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/buruntzaldea-ikt-34473299073-o-2000x1333.jpg");
-}
-.cid-svLRTyvuLV .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-svLRTyvuLV .mbr-text,
-.cid-svLRTyvuLV .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-svLRTyvuLV .mbr-section-title,
-  .cid-svLRTyvuLV .mbr-section-btn,
-  .cid-svLRTyvuLV .mbr-text {
-    text-align: center;
-  }
-}
 .cid-sI3PlXgCic {
-  padding-top: 2rem;
+  padding-top: 6rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -10204,6 +10183,27 @@ a {
 }
 .cid-sAoltx8ezr H3 {
   text-align: center;
+}
+.cid-svLRTyvuLV {
+  padding-top: 10rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/buruntzaldea-ikt-34473299073-o-2000x1333.jpg");
+}
+.cid-svLRTyvuLV .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-svLRTyvuLV .mbr-text,
+.cid-svLRTyvuLV .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-svLRTyvuLV .mbr-section-title,
+  .cid-svLRTyvuLV .mbr-section-btn,
+  .cid-svLRTyvuLV .mbr-text {
+    text-align: center;
+  }
 }
 .cid-svMjoCU3XA body,
 .cid-svMjoCU3XA html {
