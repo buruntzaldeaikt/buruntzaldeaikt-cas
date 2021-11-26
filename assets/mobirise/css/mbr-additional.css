@@ -4943,6 +4943,40 @@ a {
 .cid-sLYBp2fQoI H3 {
   text-align: left;
 }
+.cid-sPRdMzK6aC {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sPRdMzK6aC .card-box {
+  z-index: 10;
+  position: relative;
+}
+@media (min-width: 1500px) {
+  .cid-sPRdMzK6aC .container {
+    max-width: 1400px;
+  }
+}
+.cid-sPRdMzK6aC .card {
+  margin: auto;
+}
+.cid-sPRdMzK6aC .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #103d12;
+  margin-bottom: 2rem;
+}
+.cid-sPRdMzK6aC .card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-sPRdMzK6aC .row {
+  justify-content: center;
+}
+.cid-sPRdMzK6aC H3 {
+  text-align: left;
+}
 .cid-sgG5Sc4FLp {
   padding-top: 10rem;
   padding-bottom: 0rem;
