@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -75,6 +75,8 @@
     "witsec-language": "es",
     "mbrsiteDomain": "wmuikhinqr",
     "cookiesAlert": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "gdpr": false
   },
   "pages": {
