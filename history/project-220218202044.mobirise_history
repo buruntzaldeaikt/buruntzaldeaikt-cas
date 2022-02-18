@@ -75,9 +75,7 @@
     "witsec-language": "es",
     "mbrsiteDomain": "fmr1aqredj",
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
