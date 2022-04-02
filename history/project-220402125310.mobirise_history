@@ -76,7 +76,9 @@
     "mbrsiteDomain": "wfei7jbqtn",
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-jquery": false
+    "witsec-jquery": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -518,6 +520,39 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "modalName": "Korrika2022",
+            "modalSize": "large",
+            "modalHeader": true,
+            "modalTitle": "Gu ere KORRIKA!",
+            "modalBody": "<b>El 8 de abril</b> haremos el <i><b>kilometro 2005</b></i> a favor de KORRIKA junto con LOKE, Texas Lasartearra y Trinko Triatloi taldea. <br>¡Anímate tu también!\n<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjanAJNvWsTTsEV3HGuzKzilgdVEf-WyUvIAhZhKM2D-vxyQDnBxwY1wvldJaM9by6p98dlMfpwkr-rAz13PaLHsdeaSC132Jw4Zgu9kn9GLe1ZafnlGxclKZfSJHt8yyITbCMPAyS-j2MdIsSM5fyN8A3a5_azpYgMrYh9PtZSSGpVACzHgxwBZcCAeg/s16000/guk-ere.png\">",
+            "modalBodyHTML": true,
+            "modalFooter": false,
+            "modalCloseBtn": false,
+            "modalCloseText": "Close",
+            "modalLink": false,
+            "modalLinkUrl": "https://mobirise.com/",
+            "modalLinkText": "Visit Mobirise",
+            "modalLinkNewWindow": true,
+            "modalVerticalCenter": false,
+            "modalFade": true,
+            "modalAutoOpen": true,
+            "modalAutoOpenOnce": false,
+            "modalAutoOpenGDPR": true,
+            "modalAutoOpenDelay": "3"
+          },
+          "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Korrika2022\" data-bs-toggle=\"modal\" data-bs-target=\"#Korrika2022\">Preview Korrika2022</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Korrika2022-howtouse\" data-bs-toggle=\"modal\" data-bs-target=\"#Korrika2022-howtouse\">How to use Korrika2022</a>\n</div>\n<div class=\"modal fade\" id=\"Korrika2022-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"Korrika2022-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"Korrika2022-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('Korrika2022')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
+          "modalBody": "<b>El 8 de abril</b> haremos el <i><b>kilometro 2005</b></i> a favor de KORRIKA junto con LOKE, Texas Lasartearra y Trinko Triatloi taldea. <br>¡Anímate tu también!\n<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjanAJNvWsTTsEV3HGuzKzilgdVEf-WyUvIAhZhKM2D-vxyQDnBxwY1wvldJaM9by6p98dlMfpwkr-rAz13PaLHsdeaSC132Jw4Zgu9kn9GLe1ZafnlGxclKZfSJHt8yyITbCMPAyS-j2MdIsSM5fyN8A3a5_azpYgMrYh9PtZSSGpVACzHgxwBZcCAeg/s16000/guk-ere.png\">",
+          "alias": "witsec-modal-window",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-modal-window-block",
+          "_sourceTheme": "mobirise5",
+          "_anchor": "witsec-modal-window-block-dw",
+          "modalWindow": "<div class=\"modal fade\" id=\"Korrika2022\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"Korrika2022Label\" aria-hidden=\"true\">  <div class=\"modal-dialog modal-lg \" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"Korrika2022Label\">Gu ere KORRIKA!</h5>  <a href=\"#\" class=\"no-anim close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"Korrika2022_body\"><b>El 8 de abril</b> haremos el <i><b>kilometro 2005</b></i> a favor de KORRIKA junto con LOKE, Texas Lasartearra y Trinko Triatloi taldea. <br>¡Anímate tu también!\n<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjanAJNvWsTTsEV3HGuzKzilgdVEf-WyUvIAhZhKM2D-vxyQDnBxwY1wvldJaM9by6p98dlMfpwkr-rAz13PaLHsdeaSC132Jw4Zgu9kn9GLe1ZafnlGxclKZfSJHt8yyITbCMPAyS-j2MdIsSM5fyN8A3a5_azpYgMrYh9PtZSSGpVACzHgxwBZcCAeg/s16000/guk-ere.png\"></div>    </div>  </div></div><script> \ndocument.addEventListener(\"DOMContentLoaded\", function() { \n  if(typeof jQuery === \"function\") {\n    $(\"#Korrika2022\").on(\"hidden.bs.modal\", function () { \n      var html = $( \"#Korrika2022_body\" ).html(); \n      $( \"#Korrika2022_body\" ).empty(); \n      $( \"#Korrika2022_body\" ).append(html); \n    }) \n  } else { \n      var mdw = document.getElementById(\"#Korrika2022\") \n      mdw.addEventListener(\"hidden.bs.modal\", function(event) { \n        mdw.innerHTML = mdw.innerHTML; \n      }); \n  } \n}); \n</script>"
         },
         {
           "alias": false,
