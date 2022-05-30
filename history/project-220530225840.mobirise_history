@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "index.html",
+    "currentPage": "voluntarios.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,7 +53,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 516,
+    "uniqCompNum": 515,
     "versionPublish": "5.6.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -520,39 +520,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "modalName": "Ayuda",
-            "modalSize": "medium",
-            "modalHeader": true,
-            "modalTitle": "¡Ayúdanos a mantener nuestro proyecto deportivo!",
-            "modalBody": "Cualquier aportación, por pequeña que sea, ¡es importante para nuestro club!\n\n¡Muchas gracias de antemano!",
-            "modalBodyHTML": false,
-            "modalFooter": true,
-            "modalCloseBtn": false,
-            "modalCloseText": "Close",
-            "modalLink": true,
-            "modalLinkUrl": "https://www.paypal.com/donate/?hosted_button_id=NGFNN2Z3BLMDQ",
-            "modalLinkText": "¡Quiero hacer un donativo!",
-            "modalLinkNewWindow": true,
-            "modalVerticalCenter": true,
-            "modalFade": true,
-            "modalAutoOpen": true,
-            "modalAutoOpenOnce": false,
-            "modalAutoOpenGDPR": true,
-            "modalAutoOpenDelay": "3"
-          },
-          "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Ayuda\" data-bs-toggle=\"modal\" data-bs-target=\"#Ayuda\">Preview Ayuda</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#Ayuda-howtouse\" data-bs-toggle=\"modal\" data-bs-target=\"#Ayuda-howtouse\">How to use Ayuda</a>\n</div>\n<div class=\"modal fade\" id=\"Ayuda-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"Ayuda-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"Ayuda-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('Ayuda')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
-          "modalBody": "Cualquier aportación, por pequeña que sea, ¡es importante para nuestro club!\n\n¡Muchas gracias de antemano!",
-          "alias": "witsec-modal-window",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "witsec-modal-window-block",
-          "_sourceTheme": "mobirise5",
-          "_anchor": "witsec-modal-window-block-eb",
-          "modalWindow": "<div class=\"modal fade\" id=\"Ayuda\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"AyudaLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog  modal-dialog-centered\" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"AyudaLabel\">¡Ayúdanos a mantener nuestro proyecto deportivo!</h5>  <a href=\"#\" class=\"no-anim close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"Ayuda_body\">Cualquier aportación, por pequeña que sea, ¡es importante para nuestro club!<br /><br />¡Muchas gracias de antemano!</div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"https://www.paypal.com/donate/?hosted_button_id=NGFNN2Z3BLMDQ\" class=\"no-anim btn btn-primary display-4\" target=_new>¡Quiero hacer un donativo!</a></div></div>    </div>  </div></div><script> \ndocument.addEventListener(\"DOMContentLoaded\", function() { \n  if(typeof jQuery === \"function\") {\n    $(\"#Ayuda\").on(\"hidden.bs.modal\", function () { \n      var html = $( \"#Ayuda_body\" ).html(); \n      $( \"#Ayuda_body\" ).empty(); \n      $( \"#Ayuda_body\" ).append(html); \n    }) \n  } else { \n      var mdw = document.getElementById(\"#Ayuda\") \n      mdw.addEventListener(\"hidden.bs.modal\", function(event) { \n        mdw.innerHTML = mdw.innerHTML; \n      }); \n  } \n}); \n</script>"
         },
         {
           "alias": false,
