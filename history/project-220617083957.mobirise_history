@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "index.html",
+    "currentPage": "masters.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -527,13 +527,13 @@
             "modalSize": "medium",
             "modalHeader": true,
             "modalTitle": "PUERTAS ABIERTAS",
-            "modalBody": " <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLeGSeClyUc9E-ql4Pwdu1Vr2EPzjcfnMqO-w0khlTrLzo4HNeeZKwvophk0Gr6OC1MXt39xOUP3KrB5SY1DkblKMG6_ve1X3fEUfTD2d2M2MBstotX0vXgSW6tnzsKSK6HYS9s4WWWDv6Q4i05-80Lv91XeuvXceJ2SrmHoTKMJ0YFVGEH6_1cqg5/s16000/Ate%20irekiak%20_%20Puertas%20abiertas%20Andoain.jpg\">",
+            "modalBody": " <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgySPh3knT278CkZOKJepvw2-jUf8ZEtZhwirtZB917npP6vUDUjyaWmKkvVC6nG-fv7EgCnq9CublMl_HvDvARZ6B5Buc7Xl-0tZNlIqMrDlR7DrdojCwoj1m5gLoF_mYR6ycuQBwUdj5gwnXkjulOCY0vo-9IsAeqNZby0Pys8Xq6zzoG_hTFviBM/s16000/Ate%20irekiak%20_%20Puertas%20abiertas.jpg\">",
             "modalBodyHTML": true,
             "modalFooter": true,
             "modalCloseBtn": false,
             "modalCloseText": "Close",
             "modalLink": true,
-            "modalLinkUrl": "https://forms.gle/gdkQHD2x1fEr2n7w5",
+            "modalLinkUrl": "https://mobirise.com/",
             "modalLinkText": "¡Quiero ir a las puertas abierta!",
             "modalLinkNewWindow": true,
             "modalVerticalCenter": false,
@@ -544,7 +544,7 @@
             "modalAutoOpenDelay": "3"
           },
           "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#PUERTAS-ABIERTAS\" data-bs-toggle=\"modal\" data-bs-target=\"#PUERTAS-ABIERTAS\">Preview PUERTAS-ABIERTAS</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#PUERTAS-ABIERTAS-howtouse\" data-bs-toggle=\"modal\" data-bs-target=\"#PUERTAS-ABIERTAS-howtouse\">How to use PUERTAS-ABIERTAS</a>\n</div>\n<div class=\"modal fade\" id=\"PUERTAS-ABIERTAS-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"PUERTAS-ABIERTAS-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title\" id=\"PUERTAS-ABIERTAS-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('PUERTAS-ABIERTAS')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
-          "modalBody": " <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLeGSeClyUc9E-ql4Pwdu1Vr2EPzjcfnMqO-w0khlTrLzo4HNeeZKwvophk0Gr6OC1MXt39xOUP3KrB5SY1DkblKMG6_ve1X3fEUfTD2d2M2MBstotX0vXgSW6tnzsKSK6HYS9s4WWWDv6Q4i05-80Lv91XeuvXceJ2SrmHoTKMJ0YFVGEH6_1cqg5/s16000/Ate%20irekiak%20_%20Puertas%20abiertas%20Andoain.jpg\">",
+          "modalBody": " <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgySPh3knT278CkZOKJepvw2-jUf8ZEtZhwirtZB917npP6vUDUjyaWmKkvVC6nG-fv7EgCnq9CublMl_HvDvARZ6B5Buc7Xl-0tZNlIqMrDlR7DrdojCwoj1m5gLoF_mYR6ycuQBwUdj5gwnXkjulOCY0vo-9IsAeqNZby0Pys8Xq6zzoG_hTFviBM/s16000/Ate%20irekiak%20_%20Puertas%20abiertas.jpg\">",
           "alias": "witsec-modal-window",
           "_tags": [
             "Extension"
@@ -552,7 +552,7 @@
           "_name": "witsec-modal-window-block",
           "_sourceTheme": "mobirise5",
           "_anchor": "witsec-modal-window-block-ed",
-          "modalWindow": "<div class=\"modal fade\" id=\"PUERTAS-ABIERTAS\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"PUERTAS-ABIERTASLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog  \" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"PUERTAS-ABIERTASLabel\">PUERTAS ABIERTAS</h5>  <a href=\"#\" class=\"no-anim close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"PUERTAS-ABIERTAS_body\"> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLeGSeClyUc9E-ql4Pwdu1Vr2EPzjcfnMqO-w0khlTrLzo4HNeeZKwvophk0Gr6OC1MXt39xOUP3KrB5SY1DkblKMG6_ve1X3fEUfTD2d2M2MBstotX0vXgSW6tnzsKSK6HYS9s4WWWDv6Q4i05-80Lv91XeuvXceJ2SrmHoTKMJ0YFVGEH6_1cqg5/s16000/Ate%20irekiak%20_%20Puertas%20abiertas%20Andoain.jpg\"></div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"https://forms.gle/gdkQHD2x1fEr2n7w5\" class=\"no-anim btn btn-primary display-4\" target=_new>¡Quiero ir a las puertas abierta!</a></div></div>    </div>  </div></div><script> \ndocument.addEventListener(\"DOMContentLoaded\", function() { \n  if(typeof jQuery === \"function\") {\n    $(\"#PUERTAS-ABIERTAS\").on(\"hidden.bs.modal\", function () { \n      var html = $( \"#PUERTAS-ABIERTAS_body\" ).html(); \n      $( \"#PUERTAS-ABIERTAS_body\" ).empty(); \n      $( \"#PUERTAS-ABIERTAS_body\" ).append(html); \n    }) \n  } else { \n      var mdw = document.getElementById(\"#PUERTAS-ABIERTAS\") \n      mdw.addEventListener(\"hidden.bs.modal\", function(event) { \n        mdw.innerHTML = mdw.innerHTML; \n      }); \n  } \n}); \n</script>"
+          "modalWindow": "<div class=\"modal fade\" id=\"PUERTAS-ABIERTAS\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"PUERTAS-ABIERTASLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog  \" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title\" id=\"PUERTAS-ABIERTASLabel\">PUERTAS ABIERTAS</h5>  <a href=\"#\" class=\"no-anim close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body\" id=\"PUERTAS-ABIERTAS_body\"> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgySPh3knT278CkZOKJepvw2-jUf8ZEtZhwirtZB917npP6vUDUjyaWmKkvVC6nG-fv7EgCnq9CublMl_HvDvARZ6B5Buc7Xl-0tZNlIqMrDlR7DrdojCwoj1m5gLoF_mYR6ycuQBwUdj5gwnXkjulOCY0vo-9IsAeqNZby0Pys8Xq6zzoG_hTFviBM/s16000/Ate%20irekiak%20_%20Puertas%20abiertas.jpg\"></div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"https://mobirise.com/\" class=\"no-anim btn btn-primary display-4\" target=_new>¡Quiero ir a las puertas abierta!</a></div></div>    </div>  </div></div><script> \ndocument.addEventListener(\"DOMContentLoaded\", function() { \n  if(typeof jQuery === \"function\") {\n    $(\"#PUERTAS-ABIERTAS\").on(\"hidden.bs.modal\", function () { \n      var html = $( \"#PUERTAS-ABIERTAS_body\" ).html(); \n      $( \"#PUERTAS-ABIERTAS_body\" ).empty(); \n      $( \"#PUERTAS-ABIERTAS_body\" ).append(html); \n    }) \n  } else { \n      var mdw = document.getElementById(\"#PUERTAS-ABIERTAS\") \n      mdw.addEventListener(\"hidden.bs.modal\", function(event) { \n        mdw.innerHTML = mdw.innerHTML; \n      }); \n  } \n}); \n</script>"
         },
         {
           "alias": false,
