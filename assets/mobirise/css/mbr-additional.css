@@ -2442,6 +2442,9 @@ a {
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
+.cid-sgvD7vAJFd .row {
+  flex-direction: row-reverse;
+}
 .cid-sgvD7vAJFd .mbr-section-subtitle {
   text-align: justify;
 }
@@ -3073,6 +3076,9 @@ a {
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
+.cid-sgkXZxiFjh .row {
+  flex-direction: row-reverse;
+}
 .cid-sgkXZxiFjh .mbr-section-subtitle {
   text-align: justify;
 }
@@ -3558,6 +3564,9 @@ a {
   padding-top: 7rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
+}
+.cid-sgpWlGC0Lh .row {
+  flex-direction: row-reverse;
 }
 .cid-sgpWlGC0Lh .mbr-section-subtitle {
   text-align: justify;
