@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Buruntzaldea IKT-es",
-    "currentPage": "estilos.html",
+    "currentPage": "escolar-federada.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -76,9 +76,7 @@
     "mbrsiteDomain": "ceqlzgwjye",
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-jquery": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "witsec-jquery": false
   },
   "pages": {
     "index.html": {
