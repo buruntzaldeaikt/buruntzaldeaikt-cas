@@ -2449,9 +2449,6 @@ a {
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-sgvD7vAJFd .row {
-  flex-direction: row-reverse;
-}
 .cid-sgvD7vAJFd .mbr-section-subtitle {
   text-align: justify;
 }
@@ -3089,9 +3086,6 @@ a {
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-sgkXZxiFjh .row {
-  flex-direction: row-reverse;
-}
 .cid-sgkXZxiFjh .mbr-section-subtitle {
   text-align: justify;
 }
@@ -3577,9 +3571,6 @@ a {
   padding-top: 8rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
-}
-.cid-sgpWlGC0Lh .row {
-  flex-direction: row-reverse;
 }
 .cid-sgpWlGC0Lh .mbr-section-subtitle {
   text-align: justify;
@@ -4650,7 +4641,7 @@ a {
   }
 }
 .cid-te6T5hPHh1 {
-  padding-top: 90px;
+  padding-top: 105px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -4667,6 +4658,9 @@ a {
   left: 0;
   width: 100vw;
   height: 100vh;
+}
+.cid-te6T5hPHh1 html {
+  overflow: hidden;
 }
 .cid-sSoQtQsDMT {
   padding-top: 0px;
@@ -10093,7 +10087,7 @@ a {
   }
 }
 .cid-t1Kb9bcWPI {
-  padding-top: 6rem;
+  padding-top: 10rem;
   padding-bottom: 6rem;
   background-image: url("../../../assets/images/gh017551-trim-slomo-97-1920x1080.jpg");
 }

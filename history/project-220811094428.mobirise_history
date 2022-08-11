@@ -76,7 +76,9 @@
     "mbrsiteDomain": "tze6jzkpwn",
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-jquery": false
+    "witsec-jquery": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -5548,9 +5550,6 @@
               "left": "0",
               "width": "100vw",
               "height": "100vh"
-            },
-            "html": {
-              "overflow": "hidden"
             }
           },
           "_name": "witsec-html-block",
