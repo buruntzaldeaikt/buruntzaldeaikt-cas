@@ -805,7 +805,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-te5zZVVAEv .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6rem);
+    max-height: calc(98.5vh - 6.6rem);
   }
 }
 .cid-te5zZVVAEv .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -9602,6 +9602,15 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-JqYr6zGbp9 {
+  background-color: #242930;
+}
+.cid-JqYr6zGbp9 .show {
+  visibility: visible;
+}
+.cid-JqYr6zGbp9 .hide {
+  visibility: hidden;
 }
 .cid-sFnZNqGZoa {
   padding-right: 10%;
