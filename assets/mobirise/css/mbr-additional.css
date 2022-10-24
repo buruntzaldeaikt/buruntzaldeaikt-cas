@@ -38,11 +38,11 @@ body {
 }
 .display-7 {
   font-family: 'Jost', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.375rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -5137,77 +5137,88 @@ a {
 .cid-sgG7pFYdNw p {
   text-align: justify;
 }
-.cid-sLYBp2fQoI {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+.cid-tla5rgE9zw {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #e1e9de;
 }
-.cid-sLYBp2fQoI .card-box {
-  z-index: 10;
-  position: relative;
+.cid-tla5rgE9zw .mbr-section-subtitle {
+  color: #767676;
 }
-@media (min-width: 1500px) {
-  .cid-sLYBp2fQoI .container {
-    max-width: 1400px;
+.cid-tla5rgE9zw .container-table {
+  margin: 0 auto;
+}
+.cid-tla5rgE9zw .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-tla5rgE9zw .dataTables_wrapper {
+  display: block;
+}
+.cid-tla5rgE9zw .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-tla5rgE9zw .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-tla5rgE9zw table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-tla5rgE9zw table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-tla5rgE9zw table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-tla5rgE9zw table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-tla5rgE9zw table.table {
+  background: #ffffff;
+}
+.cid-tla5rgE9zw .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-tla5rgE9zw .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-tla5rgE9zw .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-tla5rgE9zw .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-tla5rgE9zw .dataTables_filter {
+    text-align: center;
   }
 }
-.cid-sLYBp2fQoI .card {
-  margin: auto;
-}
-.cid-sLYBp2fQoI .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #103d12;
-  margin-bottom: 2rem;
-}
-.cid-sLYBp2fQoI .card-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-sLYBp2fQoI .row {
-  justify-content: center;
-}
-.cid-sLYBp2fQoI H3 {
-  text-align: left;
-}
-.cid-sLYBp2fQoI .card-title,
-.cid-sLYBp2fQoI .card-box {
-  color: #111111;
-}
-.cid-sPRdMzK6aC {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sPRdMzK6aC .card-box {
-  z-index: 10;
-  position: relative;
-}
-@media (min-width: 1500px) {
-  .cid-sPRdMzK6aC .container {
-    max-width: 1400px;
+@media (max-width: 350px) {
+  .cid-tla5rgE9zw .dataTables_filter {
+    text-align: center;
+  }
+  .cid-tla5rgE9zw .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
   }
 }
-.cid-sPRdMzK6aC .card {
-  margin: auto;
-}
-.cid-sPRdMzK6aC .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #103d12;
-  margin-bottom: 2rem;
-}
-.cid-sPRdMzK6aC .card-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-sPRdMzK6aC .row {
-  justify-content: center;
-}
-.cid-sPRdMzK6aC H3 {
+.cid-tla5rgE9zw .mbr-section-title {
   text-align: left;
+  color: #103d12;
 }
 .cid-sgG5Sc4FLp {
   padding-top: 10rem;
