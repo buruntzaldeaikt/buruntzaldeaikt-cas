@@ -75,7 +75,9 @@
     "mbrsiteDomain": "wl3k6kjili",
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-jquery": false
+    "witsec-jquery": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
