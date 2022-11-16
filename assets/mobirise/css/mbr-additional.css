@@ -2759,55 +2759,6 @@ a {
 .cid-tlshiwkO3W .panel-title-edit {
   color: #000000;
 }
-.cid-sgvD7yHYhC {
-  padding-top: 6rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-sgvD7yHYhC .nav-tabs .nav-item.open .nav-link:focus,
-.cid-sgvD7yHYhC .nav-tabs .nav-link.active:focus {
-  outline: none;
-}
-.cid-sgvD7yHYhC .nav-tabs {
-  flex-wrap: wrap;
-  border-bottom: 1px solid #054d07;
-}
-@media (max-width: 767px) {
-  .cid-sgvD7yHYhC .nav-item {
-    width: 100%;
-    margin: 0;
-  }
-}
-.cid-sgvD7yHYhC .nav-tabs .nav-link {
-  transition: all .5s;
-  border: none;
-  border-bottom: 3px solid transparent;
-  border-radius: 0 !important;
-}
-.cid-sgvD7yHYhC .nav-tabs .nav-link:not(.active) {
-  color: #000000;
-}
-.cid-sgvD7yHYhC .nav-tabs .nav-item {
-  margin-right: 1.5rem;
-}
-.cid-sgvD7yHYhC .nav-link,
-.cid-sgvD7yHYhC .nav-link.active {
-  padding: 1rem 0;
-  background-color: transparent;
-}
-.cid-sgvD7yHYhC .nav-tabs .nav-link.active {
-  color: #054d07;
-  border-bottom: 3px solid #054d07;
-}
-.cid-sgvD7yHYhC H4 {
-  text-align: center;
-}
-.cid-sgvD7yHYhC H3 {
-  text-align: center;
-}
-.cid-sgvD7yHYhC h5 {
-  text-align: justify;
-}
 .cid-sBIVFQeB4d {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -3283,55 +3234,6 @@ a {
 }
 .cid-tlrydXDoX6 .panel-title-edit {
   color: #000000;
-}
-.cid-sgl15BYUCx {
-  padding-top: 6rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-sgl15BYUCx .nav-tabs .nav-item.open .nav-link:focus,
-.cid-sgl15BYUCx .nav-tabs .nav-link.active:focus {
-  outline: none;
-}
-.cid-sgl15BYUCx .nav-tabs {
-  flex-wrap: wrap;
-  border-bottom: 1px solid #054d07;
-}
-@media (max-width: 767px) {
-  .cid-sgl15BYUCx .nav-item {
-    width: 100%;
-    margin: 0;
-  }
-}
-.cid-sgl15BYUCx .nav-tabs .nav-link {
-  transition: all .5s;
-  border: none;
-  border-bottom: 3px solid transparent;
-  border-radius: 0 !important;
-}
-.cid-sgl15BYUCx .nav-tabs .nav-link:not(.active) {
-  color: #000000;
-}
-.cid-sgl15BYUCx .nav-tabs .nav-item {
-  margin-right: 1.5rem;
-}
-.cid-sgl15BYUCx .nav-link,
-.cid-sgl15BYUCx .nav-link.active {
-  padding: 1rem 0;
-  background-color: transparent;
-}
-.cid-sgl15BYUCx .nav-tabs .nav-link.active {
-  color: #054d07;
-  border-bottom: 3px solid #054d07;
-}
-.cid-sgl15BYUCx H4 {
-  text-align: center;
-}
-.cid-sgl15BYUCx H3 {
-  text-align: center;
-}
-.cid-sgl15BYUCx h5 {
-  text-align: justify;
 }
 .cid-sBIVFQeB4d {
   padding-top: 1rem;
